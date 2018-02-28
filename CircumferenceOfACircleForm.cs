@@ -10,11 +10,24 @@ using System.Windows.Forms;
 
 namespace CircumferenceToluA
 {
-    public partial class Form1 : Form
+    public partial class frmCircumferenceOfACircle : Form
     {
-        public Form1()
+        public frmCircumferenceOfACircle()
         {
             InitializeComponent();
+        }
+
+        private void lblAnswer_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            double Radius;
+            Radius = double.Parse(txtRadius.Text);
+            lblAnswer.Text;
+                 
         }
     }
 }
