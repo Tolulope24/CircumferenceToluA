@@ -24,9 +24,13 @@ namespace CircumferenceToluA
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            double Radius;
+            // Identify the consants
+            double Radius, Circumference ;
+            // Convert the radius into a text box
             Radius = double.Parse(txtRadius.Text);
-            lblAnswer.Text;
+            Circumference = Radius * Math.PI * 2;
+            // convert the Circumference to a label
+            lblAnswer.Text = "The Circumference is: "+Convert.ToString(Circumference) + " Cm";
                  
         }
     }

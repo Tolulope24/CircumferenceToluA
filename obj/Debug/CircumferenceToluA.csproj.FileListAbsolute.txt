@@ -1,0 +1,10 @@
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\bin\Debug\CircumferenceToluA.exe.config
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\bin\Debug\CircumferenceToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\bin\Debug\CircumferenceToluA.pdb
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.csprojResolveAssemblyReference.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.frmCircumferenceOfACircle.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.Properties.Resources.resources
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.csproj.GenerateResource.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.csproj.CoreCompileInputs.cache
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.exe
+C:\Users\Tolu\Desktop\Grade 11 Programming\CircumferenceToluA\obj\Debug\CircumferenceToluA.pdb
